@@ -41,6 +41,7 @@ As a modern web application designed for mobile-first accessibility in Banglades
 ## 📄 About & Credits
 * **Project Designation:** CrickNiro
 * **Creator:** Kairo
-* **Copyright:** © 2026 CrickNiro. All rights reserved. 
+* **License:** MIT License
+* **Copyright:** © 2026 CrickNiro. All rights reserved.
 
 *Bringing the schoolyard pitch straight to your browser, one 15-second delivery at a time.*
